@@ -45,23 +45,16 @@ The Dimensional Reality Theory proposes a framework for understanding the potent
 
 ## AI Disclosure
 
-* Claude 3: Refined stochastic decay equations on \[Date], using the prompt: '\[Prompt used]'.
-* GPT-4: Generated Python simulation scaffolding on \[Date], using the prompt: '\[Prompt used]'.
-
-(Please fill in the date and prompts used)
+* Claude 3: Refined stochastic decay equations on \[2025-03-10], using the prompt: '\[Prompt used]'.
+* GPT-4: Generated Python simulation scaffolding on \[2025-03-10], using the prompt: '\[Prompt used]'.
 
 ## License
 
 This project is dual-licensed under the MIT License and Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
 
+* `LICENSE`: Contains the MIT License.
+* `LICENSE-CC-BY-SA-4.0`: Contains the Creative Commons Attribution-ShareAlike 4.0 International license.
+
 ## Patent Grant
 
-A perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable patent license is granted.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit pull requests or open issues to discuss potential improvements.
-
-## Contact
-
-\[j.aaron.flores@gmail.com]
+* `PATENT-GRANT`: Contains the patent grant information.
