@@ -13,9 +13,31 @@ The data is presented in a simple text format, with each line representing a pri
 *   23: Range of -11 to 11
 *   47: Range of -23 to 23
 *   59: Range of -29 to 29
-*   67: Range of -33 to 33
 *   83: Range of -41 to 41
 *   107: Range of -53 to 53
+
+**Mathematical Relationship:**
+
+The relationship between the prime numbers and their ranges in the Dimensional Reality Theory data follows a specific mathematical pattern. For each prime number \( p \), the associated range is **symmetric around zero** and determined by the formula:
+
+\[
+\text{Range} = \left[ -\frac{p - 1}{2}, \frac{p - 1}{2} \right]
+\]
+
+### Explanation:
+1.  **Formula Derivation**:
+    *   For a prime \( p \), the upper bound of the range is \( \frac{p - 1}{2} \), and the lower bound is its negative counterpart. This ensures symmetry around zero.
+    *   Since all primes \( p \geq 2 \) are odd, \( p - 1 \) is even, making \( \frac{p - 1}{2} \) an integer.
+
+2.  **Validation with Examples**:
+    *   \( p = 5 \): Range \( = \left[-\frac{5 - 1}{2}, \frac{5 - 1}{2}\right] = [-2, 2] \)
+    *   \( p = 7 \): Range \( = \left[-\frac{7 - 1}{2}, \frac{7 - 1}{2}\right] = [-3, 3] \)
+    *   \( p = 23 \): Range \( = \left[-\frac{23 - 1}{2}, \frac{23 - 1}{2}\right] = [-11, 11] \)
+    *   This pattern holds consistently for all listed primes.
+
+### Key Insight:
+The range for a prime \( p \) is **uniquely determined by \( \frac{p - 1}{2} \)**. This suggests a foundational geometric or algebraic structure tied to primes in the theory. Further research could explore why these primes (and their derived ranges) might correlate with dimensional properties.
+
 **Future Work:**
 
 This repository will be updated as further research into prime number dimensions is conducted.
